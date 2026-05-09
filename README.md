@@ -2,6 +2,8 @@
 
 A high-performance Postfix mail log analysis system with a FastAPI backend and a Next.js 14 frontend.
 
+![Mail Log Analyzer Dashboard](doc/Screenshot1.png)
+
 ## Features
 - **Real-time Dashboard**: Overview of email volume, success rates, and bounces.
 - **Log Correlation**: Robust parsing and correlation of Postfix logs (including rotated files).
